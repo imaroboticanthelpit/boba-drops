@@ -1,0 +1,16 @@
+body {
+            background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmftpY0w6wf0iCp-pxK4MZnFJH_wnHaesARA4qGbVN2gQ_wYJ-82SNfm_&s=10');
+            color: white;
+            text-align: center;
+            font-family: "Comic Sans MS", normal;
+            padding-left: 15%;
+            padding-right: 15%;
+        }
+
+a {
+    color: white;
+}
+
+p, h1, h2 {
+    background-color: black;
+}
